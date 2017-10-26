@@ -1,3 +1,5 @@
+
+//archivo de arranque  es como el main
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
